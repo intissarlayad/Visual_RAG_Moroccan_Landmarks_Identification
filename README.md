@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕌 Visual RAG — Moroccan Landmarks Identification
+# Visual RAG — Moroccan Landmarks Identification
 
 **AI-Powered Visual Search & Tourist Guide for Moroccan Heritage Sites**
 
